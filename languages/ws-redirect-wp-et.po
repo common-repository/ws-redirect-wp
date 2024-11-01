@@ -1,0 +1,55 @@
+# Translation of Plugins - WS Redirect WP - Development (trunk) in Estonian
+# This file is distributed under the same license as the Plugins - WS Redirect WP - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-11 11:32+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.2\n"
+"Language: et_EE\n"
+"Project-Id-Version: Plugins - WS Redirect WP - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webshark.ee/"
+msgstr "https://www.webshark.ee/"
+
+#. Author of the plugin/theme
+msgid "WebShark"
+msgstr "WebShark"
+
+#. Description of the plugin/theme
+msgid "Redirecting web page visitor to external page"
+msgstr "Suunab veebilehe külastajad välisele veebilehele"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.silvermuru.ee/en/wordpress/plugins/ws-redirect-wp/"
+msgstr "http://www.silvermuru.ee/wordpress/plugins/ws-redirect-wp/"
+
+#. Plugin Name of the plugin/theme
+msgid "WS Redirect WP"
+msgstr "WS Redirect WP"
+
+#: admin/ws-redirect-wp-admin.php:50
+msgid "Save Changes"
+msgstr "Salvesta muudatused"
+
+#: admin/ws-redirect-wp-admin.php:44
+msgid "Url where to redirect site"
+msgstr "Aadress kuhu veebileht suunata"
+
+#: admin/ws-redirect-wp-admin.php:42
+msgid "Url"
+msgstr "Aadress"
+
+#: admin/ws-redirect-wp-admin.php:33
+msgid "Active"
+msgstr "Aktiivne"
+
+#: admin/ws-redirect-wp-admin.php:15 admin/ws-redirect-wp-admin.php:26
+msgid "WS Redirect WP Settings"
+msgstr "WS Redirect WP Seaded"
